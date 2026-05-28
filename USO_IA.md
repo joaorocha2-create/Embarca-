@@ -1,9 +1,9 @@
 # Registro de Uso de Inteligência Artificial
 
-**Projeto:** [Embarcaê] **Grupo:** [3] **Disciplina:** IAUC — IF Goiano Campus Iporá — 2026/1
+**Projeto:** Embarcaê **Grupo:** 3 **Disciplina:** IAUC — IF Goiano Campus Iporá — 2026/1
 
 ## Ferramentas utilizadas
-- [Chat GPT]
+- Chat GPT
 ## Etapas em que a IA foi utilizada
 Foi utilizado IA na criação de imagens, no auxilio na idealização de rotas e no design das telas.
 ## Principais prompts e resultados
