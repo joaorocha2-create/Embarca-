@@ -9,7 +9,7 @@ O projeto busca resolver a falta de transporte coletivo em Iporá, atrvés do pr
 ## Protótipo no Figma
 https://www.figma.com/design/aCCQAmYDJ7880pXNGSoplw/Prot%C3%B3tipo-----Transporte-p%C3%BAblico?node-id=0-1&t=5GxlCwSXFBLrVZvk-1
 ## Uso de Inteligência Artificial
-Consulte o arquivo [USO_IA.md](./USO_IA.md) para ver como (e se) utilizamos IA neste projeto.
+Consulte o arquivo [USO_IA.md](./USO_IA.md) para ver como utilizamos IA neste projeto.
 ## Disciplina
 IAUC — Introdução ao Ambiente Universitário e Computação
 IF Goiano — Campus Iporá — 2026/1
